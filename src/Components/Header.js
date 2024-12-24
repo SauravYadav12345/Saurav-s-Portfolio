@@ -16,17 +16,20 @@ const Header = () => {
 
         <nav>
           {/* Hamburger Menu for Small Screens */}
-          <button className="sm:hidden text-2xl" onClick={toggleMenu}>
-            <span className="block w-6 h-1 bg-white mb-1"></span>
-            <span className="block w-6 h-1 bg-white mb-1"></span>
+          <button
+            className="sm:hidden flex flex-col space-y-1"
+            onClick={toggleMenu}
+          >
+            <span className="block w-6 h-1 bg-white"></span>
+            <span className="block w-6 h-1 bg-white"></span>
             <span className="block w-6 h-1 bg-white"></span>
           </button>
 
-          {/* Mobile Menu */}
+          {/* Menu Items */}
           <ul
             className={`${
               isOpen ? "block" : "hidden"
-            } sm:flex space-x-6 mt-4 sm:mt-0 sm:flex-row`}
+            } sm:flex space-y-4 sm:space-y-0 sm:space-x-6 mt-4 sm:mt-0  sm:bg-transparent rounded-lg p-4 sm:p-0`}
           >
             <Fade cascade>
               <li>

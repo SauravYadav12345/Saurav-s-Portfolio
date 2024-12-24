@@ -13,19 +13,25 @@ const Projects = () => {
       title: "CollagePin",
       description:
         "CollagePin is a full-stack Web App built using (EJS, Tailwind.CSS, Node.js, Express.js & MongoDB). The app includes features such as (Creating Virtual Pinboards, provides a personalized feed based on user interest, admin with different roles).",
-      link: "#",
+      link: "https://github.com/SauravYadav12345/CollagePin",
     },
     {
       title: "HuntSearchEngine",
       description:
         "HuntSearchEngine is a Search Engine Website build using (Next.js, Tailwind.CSS & Google API's) where the user can search anything which he searches on google",
-      link: "#",
+      link: "https://github.com/SauravYadav12345/HuntSearchEngine",
     },
     {
       title: "WeatherDashboard",
       description:
         "WeatherDashboard is a frontend website buid using (HTML, CSS, JS & OpenWeatherMap API's) where the user can search for temperature of his current location and also temperature of any city in the world along with temperature the following details are also included in the data(Humidity, Air Pressure, Wind Speed, Cloud Coverage, Sunrise, Sunset). ",
-      link: "#",
+      link: "https://github.com/SauravYadav12345/WeatherDashboardApplication",
+    },
+    {
+      title: "PersonalPortfolio",
+      description:
+        "Personal Portfolio website made using (React.js, Tailwind.CSS, React-icons & React-Awesome)",
+      link: "https://saurav-s-portfolio.vercel.app/",
     },
   ];
 
