@@ -15,7 +15,7 @@ const Contact = () => {
         </Fade>
         <Fade delay={500}>
           <p className="text-lg sm:text-xl mb-4 font-light">
-            Email:
+            Email:{" "}
             <a
               href="mailto: yosaurav24@gmail.com"
               className="hover:text-yellow-400 transition duration-300"
@@ -26,16 +26,27 @@ const Contact = () => {
         </Fade>
         <Fade delay={700}>
           <p className="text-lg sm:text-xl mb-8 font-light">
-            Phone:{" "}
+            Linkedin:{" "}
             <a
-              href="tel:+919137781533"
+              href="https://www.linkedin.com/in/saurav-yadav-654836295/"
               className="hover:text-yellow-400 transition duration-300"
             >
-              +91-9137781533
+              linkedin.com/in/saurav-yadav-654836295/
             </a>
           </p>
         </Fade>
         <Fade delay={900}>
+          <p className="text-lg sm:text-xl mb-8 font-light">
+            Github:{" "}
+            <a
+              href="https://github.com/SauravYadav12345"
+              className="hover:text-yellow-400 transition duration-300"
+            >
+              github.com/SauravYadav12345
+            </a>
+          </p>
+        </Fade>
+        <Fade delay={1100}>
           <p className="font-light text-md sm:text-xl">
             Feel free to reach out for any collaborations or inquiries. I look
             forward to connecting with you!
