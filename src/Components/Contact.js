@@ -18,7 +18,7 @@ const Contact = () => {
             Email:{" "}
             <a
               href="mailto: yosaurav24@gmail.com"
-              className="hover:text-yellow-400 transition duration-300"
+              className="hover:text-yellow-400 transition duration-300 underline"
             >
               yosaurav24@gmail.com
             </a>
@@ -29,7 +29,7 @@ const Contact = () => {
             Linkedin:{" "}
             <a
               href="https://www.linkedin.com/in/saurav-yadav-654836295/"
-              className="hover:text-yellow-400 transition duration-300"
+              className="hover:text-yellow-400 transition duration-300 underline"
             >
               linkedin.com/in/saurav-yadav-654836295/
             </a>
@@ -40,7 +40,7 @@ const Contact = () => {
             Github:{" "}
             <a
               href="https://github.com/SauravYadav12345"
-              className="hover:text-yellow-400 transition duration-300"
+              className="hover:text-yellow-400 transition duration-300 underline"
             >
               github.com/SauravYadav12345
             </a>
