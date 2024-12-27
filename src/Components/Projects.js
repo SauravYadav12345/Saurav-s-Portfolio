@@ -6,13 +6,19 @@ const Projects = () => {
     {
       title: "IndoStyleMart",
       description:
-        "IndoStyleMart is a full-stack E-Com web app for Online shopping using (React.js, Tailwind.CSS, Redux & Firebase). The app includes features such as (Add-To-Cart, Admin & User Dashboard, Buy-Now function and the ability to delete orders).",
+        "IndoStyleMart is a Full-Stack E-Com Web App for Online shopping using (React.js, Tailwind.CSS, Redux & Firebase). The app includes features such as (Add-To-Cart, Admin & User Dashboard, Buy-Now function and the ability to delete orders).",
       link: "https://indo-style-mart-ecom.vercel.app/",
+    },
+    {
+      title: "AkkiFitness",
+      description:
+        "AkkiFitness is a Full-Stack Fitness Web App made using (React.js, Tailwind.CSS, Firebase Auth, Firebase Firestore, React-icons & React-Awesome and RapidApi's). The app includes features such as(The user can browse through workouts for different muscles, can add his favourite workout in Favourite section which he can see later, also can count daily calories intake by adding the food name)",
+      link: "https://akki-fitness-tracker-web-app.vercel.app/",
     },
     {
       title: "PersonalPortfolio",
       description:
-        "Personal Portfolio website made using (React.js, Tailwind.CSS, React-icons & React-Awesome)",
+        "Personal Portfolio Web App made using (React.js, Tailwind.CSS, React-icons & React-Awesome)",
       link: "https://saurav-s-portfolio.vercel.app/",
     },
     {
