@@ -19,12 +19,21 @@ const Hero = () => {
           </p>
         </Fade>
         <Fade delay={600}>
-          <a
-            href="#projects"
-            className="mt-6 inline-block bg-yellow-500 text-gray-900 font-semibold py-3 px-8 rounded-full hover:bg-yellow-400 transition-transform transform hover:scale-105 "
-          >
-            View My Work
-          </a>
+          <div className="mt-6 flex justify-center gap-4">
+            <a
+              href="#projects"
+              className="bg-yellow-500 text-gray-900 font-semibold py-3 px-8 rounded-full hover:bg-yellow-400 transition-transform transform hover:scale-105 "
+            >
+              View My Work
+            </a>
+            <a
+              href="/ResumeSauravYadav.pdf"
+              download="ResumeSauravYadav.pdf"
+              className="bg-blue-500 text-white font-semibold py-3 px-8 rounded-full hover:bg-blue-400 transition-transform transform hover:scale-105"
+            >
+              Download Resume
+            </a>
+          </div>
         </Fade>
       </div>
     </section>
