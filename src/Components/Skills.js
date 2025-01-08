@@ -16,7 +16,9 @@ const Skills = () => {
     "MongoDB",
     "MySQL",
     "Core-Java",
+    "Python",
     "Firebase",
+    "Redux",
     "Git & Github",
   ];
   return (
