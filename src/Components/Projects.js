@@ -4,6 +4,12 @@ import { Fade } from "react-awesome-reveal";
 const Projects = () => {
   const projects = [
     {
+      title: "CalmBridge",
+      description:
+        "Calmbridge is a Full-Stack Emotions Tracking & Improving Web App built using (Next.js, Tailwind.CSS, SCSS & Firebase). The app includes features such as (User's can Log their daily Emotions & Mood, according to the mood the App suggests tasks & after completion of tasks user can earn a Reward, the app includes feature for users to track their Weekly & Monthly Emotions and improve their Lifestyle according to emotions, the app also includes feature for multiple users to Login tha app).",
+      link: "https://calm-bridge-eta.vercel.app/",
+    },
+    {
       title: "IndoStyleMart",
       description:
         "IndoStyleMart is a Full-Stack E-Com Web App for Online shopping using (React.js, Tailwind.CSS, Redux & Firebase). The app includes features such as (Add-To-Cart, Admin & User Dashboard, Buy-Now function and the ability to delete orders).",
@@ -12,7 +18,7 @@ const Projects = () => {
     {
       title: "AkkiFitness",
       description:
-        "AkkiFitness is a Full-Stack Fitness Web App made using (React.js, Tailwind.CSS, Firebase Auth, Firebase Firestore, React-icons & React-Awesome and RapidApi's). The app includes features such as(The user can browse through workouts for different muscles, can add his favourite workout in Favourite section which he can see later, also can count daily calories intake by adding the food name)",
+        "AkkiFitness is a Full-Stack Fitness Web App made using (React.js, Tailwind.CSS, Firebase, RapidApi's). The app includes features such as(The user can browse through workouts for different muscles, can add his favourite workout in Favourite section which he can see later, also can count daily calories intake by adding the food name)",
       link: "https://akki-fitness-tracker-web-app.vercel.app/",
     },
     {
