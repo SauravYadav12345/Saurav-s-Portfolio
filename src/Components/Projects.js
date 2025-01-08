@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: "CalmBridge",
       description:
-        "Calmbridge is a Full-Stack Emotions Tracking & Improving Web App built using (Next.js, Tailwind.CSS, SCSS & Firebase). The app includes features such as (User's can Log their daily Emotions & Mood, according to the mood the App suggests tasks & after completion of tasks user can earn a Reward, the app includes feature for users to track their Weekly & Monthly Emotions and improve their Lifestyle according to emotions, the app also includes feature for multiple users to Login tha app).",
+        "Calmbridge is a Full-Stack Emotions Tracking & Improving Web App built using (Next.js, Tailwind.CSS, SCSS & Firebase). The app includes features such as (User's can Log their daily Emotions & Mood, according to the mood the App suggests tasks & after completion of tasks user can earn a Reward, the app includes feature for users to track their Weekly & Monthly Emotions and improve their Lifestyle according to their weekly/monthly emotions, the app also includes feature for multiple users to Login tha app).",
       link: "https://calm-bridge-eta.vercel.app/",
     },
     {
