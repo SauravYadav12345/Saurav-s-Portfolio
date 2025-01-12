@@ -6,6 +6,7 @@ const Skills = () => {
     "React.js",
     "Next.js",
     "Javascript",
+    "Typescript",
     "Tailwind.CSS",
     "Bootstrap",
     "HTML",
@@ -20,6 +21,7 @@ const Skills = () => {
     "Firebase",
     "Redux",
     "Git & Github",
+    "REST API's",
   ];
   return (
     <section

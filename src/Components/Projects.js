@@ -36,7 +36,7 @@ const Projects = () => {
     {
       title: "CollagePin",
       description:
-        "CollagePin is a full-stack Web App built using (EJS, Tailwind.CSS, Node.js, Express.js & MongoDB). The app includes features such as (Creating Virtual Pinboards, provides a personalized feed based on user interest, admin with different roles).",
+        "CollagePin is a full-stack Web App built using (EJS, Tailwind.CSS, Node.js, Express.js, Multer, Passport.js & MongoDB). The app includes features such as (Creating Virtual Pinboards, provides a personalized feed based on user interest, admin with different roles).",
       link: "https://github.com/SauravYadav12345/CollagePin",
     },
     {

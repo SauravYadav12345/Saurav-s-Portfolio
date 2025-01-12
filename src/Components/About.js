@@ -24,7 +24,9 @@ const About = () => {
             <span className="font-semibold">Next.js</span>, and modern design
             frameworks like <span className="font-semibold">Tailwind CSS</span>{" "}
             and
-            <span className="font-semibold"> Bootstrap</span>.
+            <span className="font-semibold"> Bootstrap</span> also comfortable
+            with <span className="font-semibold">Node.JS</span> &{" "}
+            <span className="font-semibold">Express.JS</span>.
           </p>
         </Fade>
 
